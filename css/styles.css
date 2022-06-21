@@ -111,6 +111,14 @@ footer {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+.ikeda {
+    background-color: #FDDD42;
+}
+
+.toyono {
+    background-color: #7CC85C;
+}
+
 .table-container {
     width: 100%;
     max-width: 900px;
